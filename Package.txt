@@ -1,0 +1,47 @@
+debug bar kay naa sa .env file   DEBUGBAR_ENABLED=false
+
+
+Toastr.js para sa mga error
+
+composer require yoeunes/toastr
+
+mailtrap.io
+
+bootstrap icon picker
+https://victor-valencia.github.io/bootstrap-iconpicker/
+
+tools and services
+
+ADMIN
+admin dashboard
+manage SLIDER
+
+
+Yajra datatable
+https://yajrabox.com/docs/laravel-datatables/10.0/quick-starter
+
+
+laravel debugbar
+
+composer require barryvdh/laravel-debugbar --dev
+
+add to cart package:
+https://github.com/anayarojo/laravel-shopping-cart
+
+Payment: paypal
+all configuration file are put into controller side since e store ang data
+
+https://developer.paypal.com/dashboard/
+https://github.com/srmklive/laravel-paypal
+
+Message
+pusher.com
+Broadcaster installation from laravel docs
+
+
+
+
+color
+
+navbar seller - 4E784F
+background - EFE8E6
